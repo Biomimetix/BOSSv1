@@ -1,0 +1,5 @@
+Fuses Settings for BOSS-1
+
+Extended  FD 
+High D7
+LOW FF

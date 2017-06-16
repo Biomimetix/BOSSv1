@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "BioServoAvr_6_0", "BioServoAvr\BioServoAvr_6_0.cproj", "{82A0BD93-D6AD-4BE1-9AB1-CABA921A0710}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82A0BD93-D6AD-4BE1-9AB1-CABA921A0710}.Debug|AVR.ActiveCfg = Debug|AVR
+		{82A0BD93-D6AD-4BE1-9AB1-CABA921A0710}.Debug|AVR.Build.0 = Debug|AVR
+		{82A0BD93-D6AD-4BE1-9AB1-CABA921A0710}.Release|AVR.ActiveCfg = Debug|AVR
+		{82A0BD93-D6AD-4BE1-9AB1-CABA921A0710}.Release|AVR.Build.0 = Debug|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
